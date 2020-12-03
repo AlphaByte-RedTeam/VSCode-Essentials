@@ -1,0 +1,78 @@
+//What is Compiler?//
+
+A compiler is a special program that processes statements 
+written in a particular programming language like C++ and 
+turns them into machine language or "code" that a computer's processor uses.
+
+https://www.freecodecamp.org/news/how-to-compile-your-c-code-in-visual-studio-code/
+
+
+//What is MinGW?//
+
+MinGW, a contraction of "Minimalist GNU for Windows", 
+is a minimalist development environment for native 
+Microsoft Windows applications.
+
+https://www.computerhope.com/issues/ch000549.htm
+
+
+//Download and Install C++ Compiler//
+1.) Head to www.mingw.org and click the "Download/Installer" link to
+    download the MinGW setup file
+2.) After downloading, install MinGW and wait for the "MinGW Installation
+    Manager" to show up
+3.) When the "MinGW Installation Manager" shows up, click on (mingw32-gcc-g++)
+    then select "Mark for Installation"
+4.) In the menu at the top left corner, click on "Installation > Apply Changes"
+5.) Wait and allow to install completely. Ensure you have a stable internet
+    connection during this process
+
+//What is PATH?//
+
+PATH is an environment variable on Unix-like operating systems, DOS, OS/2, and 
+Microsoft Windows, specifying a set of directories where executable programs 
+are located. In general, each executing process or user session has it's own 
+PATH setting.
+
+
+//Edit your PATH environtment variable to include the directory where
+  the C++ compiler is located//
+
+After installing MinGW, it can be found in (C:\MinGW\bin). Now you have to
+include this directory in your environtment variable PATH. If you've been using
+computers for a while now you should know how to do this already, but if you
+don't, here are a few resources :
+
+1.) From the Desktop/Windows Logo, right-click in the Windows Logo or Press Win+X
+2.) From the Power User Task Menu, click "System"
+3.) In the Settings Window, scroll down to the Related settings section and
+    click the "System Info" link.
+4.) In the System Window, click the "Advanced System Settings" link in the
+    left navigation pane
+5.) In the System Properties window, click the "Advanced" tab, then click
+    the "Environtment Variables" button near the bottom of that tab
+6.) In the Environtment Variables window, highlight the "Path" variable in the
+    System variables section and click the "Edit" button. Add or modify the
+    path lines with the paths you want the computer to access. Each different
+    directory is separated with a semicolon, as shown below.
+
+    C:\Program Files;C:\Winnt;C:\Winnt\System32
+    C:\MinGW\bin
+    C:\Users\(nama_user)\AppData\Local\Programs\Microsoft VS Code\bin
+
+
+//INSTALL CODE RUNNER EXTENSION IN VS CODE//
+
+1.) Install Code Extensions Pack
+2.) After Installing, Restart VS Code
+
+//RUNNING YOUR CODE USING CODE RUNNER//
+
+1.) Use the shortcut Ctrl+Alt+N or Press F1 --> select/type Run Code
+
+//TO STOP THE RUNNING PROCESS//
+1.) Use the shortcut Ctrl+Alt+M or Press F1 --> select/type Stop Code
+
+//ENTERING DATA IN TERMINAL
+1. Goto File > Preferences > Setting > Scroll till you meet
+   Code Runner: Run In Terminal > Check it
