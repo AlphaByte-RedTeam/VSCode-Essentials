@@ -1,0 +1,37 @@
+Setting Up Java Environtment for Windows 64bit
+
+Step 1: Check with CMD if your system already has Java JDK or not,
+	the command is 'javac' without single quoatation mark.
+	
+	If the CMD show message that internal or external command is
+	not recognize, it means Java JDK has not installed in your
+	system.
+
+Step 2: Follow this step to download Java JDK
+
+1. Go to your web browser
+2. Search for Java JDK
+3. Look for Version 8 and Version 11 or latest is reccomended
+4. Download both version (Version 8 and Version 11/latest)
+5. Install both Java JDK
+6. And then setting your Java Environment
+7. Go to home page, and then look for "This PC"
+8. Right click on your mouse >> properties >> Advance System Settings
+   >> Environment Variables
+9. On the "System Variable" Tab, search for path > edit
+10. On path C:\MinGW\bin >> add more value into this path
+11. Go to page explorer by pressing Win + E
+12. Go to C:\ >> Program Files >> Java
+13. And then go to folder name jdk.1.8.0_271 (this JDK Version 8),
+    go to folder bin, and then copy the path 
+    C:\Program Files\Java\jdk1.8.0_271\bin  --> like this
+14. And then copy it into the path and seperating it using a semicolon
+    like C:\MinGW\bin;C:\Program Files\Java\jdk1.8.0_271\bin
+15. And then copy another path to add more value into the recent path,
+    and seperate using semicolon again
+16. You need to copy the JDK folder and JRE folder and copy it into the path
+17. Once you completed like this
+C:\MinGW\bin;C:\Program Files\Java\jdk-13.0.2\bin;C:\Program Files\Java\jre1.8.0_271\bin;C:\Program Files\Java\jdk1.8.0_271\bin
+18. And then you go to your VSCode, search extension named "Java Extension Pack"
+19. Click Install
+20. And then it is ready to use
