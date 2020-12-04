@@ -35,3 +35,17 @@ C:\MinGW\bin;C:\Program Files\Java\jdk-13.0.2\bin;C:\Program Files\Java\jre1.8.0
 18. And then you go to your VSCode, search extension named "Java Extension Pack"
 19. Click Install
 20. And then it is ready to use
+
+OR USING THIS METHOD (This method is automatically detect what Version you use) --> I prefer this method
+
+1. Download the Java Extension Pack in your VSCode
+2. After it completely install, press CTRL + SHIFT + P
+3. Type Java: Configure Java Runtime
+4. Scroll to "Install A JDK" Tab
+5. On the JDK Version, choose OpenJDK 15 (Latest)
+6. Click Download, and then you will be redirected to your web browser
+7. Setup the Java JDK
+8. On "JDK with Hotspot" wizard, left click the arrow button
+9. Choose "Entire feature will be installed on local hard drive"
+10. Next
+11. And then your Java is ready to use
