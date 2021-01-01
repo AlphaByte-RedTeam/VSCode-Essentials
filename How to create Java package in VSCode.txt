@@ -1,0 +1,7 @@
+How to create Java Package in VSCode:
+
+1. Install Java IDE Extension in VSCode (The saber Icon)
+2. Click Right on Java File or Directory in File Explorer (In the VSCode)
+3. Select New
+4. Select Packagae
+5. Name your package as you want
