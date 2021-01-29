@@ -1,0 +1,50 @@
+VS Code Extensions :
+
+1. All Autocomplete
+2. AREPL for Python//
+3. Atom one dark theme
+4. Better C++ Syntax
+5. Bookmark
+6. Bracket Highlighter
+7. Bracket lens
+8. Bracket pair colorizer
+9. Bracket pair colorizer 2
+10. Bracket-padder
+11. C/C++
+12. C/C++ Compile run
+13. C++ Intellisense
+14. Checkpoints//
+15. Code Runner
+16. Code snapshot
+17. Code time
+18. CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review
+19. Comment Anchors//
+Debugger for Java
+20. Error Gutters
+21. Error Lens
+22. GitHub
+23. GitHub Pull requests and issues
+24. GitLens -- Git Supercharged
+25. IntelliJ IDEA Keybindings//
+26. Java Extension Pack
+27. Java IDE
+28. Java import snippets//
+29. Java Linter//
+30. Local History//
+31. Markdown all in one//
+32. Output colorizer//
+33. Prettier - Code formatter
+34. Prettier for handlebars
+35. Prettier now
+36. Project manager
+37. Pylance//
+38. Python//
+39. Python indent//
+40. Python preview//
+41. Python snippets//
+42. Resource monitor//
+43. Settings sync//
+44. Statusbar error
+45. Tabine Autocomplete AI:
+46. Test Explorer UI//
+47. Visual Studio IntelliCode

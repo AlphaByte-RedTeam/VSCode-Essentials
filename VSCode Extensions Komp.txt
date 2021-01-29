@@ -1,0 +1,38 @@
+1. All autocomplete
+2. Atom one dark theme
+3. Better C++ syntax
+4. Bracker Highlighter
+5. Bracket Lens
+6. Bracket Pair Colorizer
+7. Bracket pair colorizer 2
+8. Bracket select
+9. Bracket-padder
+10. C/C++
+11. C/C++ Compile run
+12. C/C++ Snippets
+13. C++ Intellisense
+14. Code Runner
+15. Code snapshot
+16. Code time
+17. CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review
+18. Error Gutters
+19. Error lens
+20. ErrorLens
+21. Git Extension pack
+22. Git History
+23. GitHub
+24. GitHub Pull Requests and Issues
+25. gitignore
+26. GitLens -- Git Supercharged
+27. Java extension pack
+28. Java IDE
+29. Material icon theme
+30. One monokai theme
+31. Path intellisense
+32. Prettier - code formatter
+33. Prettier for handlebars
+34. prettier now
+35. project manager 
+36. Run terminal command
+37. Statusbar error
+38. Tabnine autocomplete AI:
