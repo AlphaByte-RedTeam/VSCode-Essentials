@@ -1,38 +1,62 @@
-1. All autocomplete
-2. Atom one dark theme
-3. Better C++ syntax
-4. Bracker Highlighter
-5. Bracket Lens
-6. Bracket Pair Colorizer
-7. Bracket pair colorizer 2
-8. Bracket select
-9. Bracket-padder
-10. C/C++
-11. C/C++ Compile run
-12. C/C++ Snippets
-13. C++ Intellisense
-14. Code Runner
-15. Code snapshot
-16. Code time
-17. CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review
-18. Error Gutters
-19. Error lens
-20. ErrorLens
-21. Git Extension pack
-22. Git History
-23. GitHub
-24. GitHub Pull Requests and Issues
-25. gitignore
-26. GitLens -- Git Supercharged
-27. Java extension pack
-28. Java IDE
-29. Material icon theme
-30. One monokai theme
-31. Path intellisense
-32. Prettier - code formatter
-33. Prettier for handlebars
-34. prettier now
-35. project manager 
-36. Run terminal command
-37. Statusbar error
-38. Tabnine autocomplete AI:
+1. All Autocomplete - Atishay Jain
+2. Atom One Dark Theme - Mahmoud Ali
+3. Better C++ Syntax - Jeff Hykin
+4. Bracket Highlighter - Durzn
+5. Bracket Lens - wraith13
+6. Bracket Pair Colorizer - CoenraddS
+7. Bracket Pair Colorizer 2 - CoenraddS
+8. Bracket Select - Chunsen Wang
+9. bracket-padder - Viable lab
+10. C/C++ - Microsoft
+11. C/C++ Compile Run - danielpinto8zz6
+12. C/C++ Snippets - Harsh
+13. C++ Intellisense - austin
+14. Checkpoints - Michael Nilsson
+15. Code Runner - Jun Han
+16. Code Snapshot - roberts
+17. Code Time - Software
+18. CSV to Table - Andrew Armstrong
+19. Datapack - Ryan Maynard
+20. Debugger for Java - Microsoft
+21. Doxygen Documentation Generator - Chrisoph Schlosser
+22. Error Gutters - IgorSbitnev
+23. Error Lens - Alexander
+24. Java IDE - JavaHub
+25. Java Imports Snippets - Taiwo Kareem
+26. Java Test Runner - Microsoft
+27. Jinja - wholroyd
+28. Jupyter - Microsoft
+29. Language Supports for Java - Red Hat
+30. Leetcode Debugger for C++ - Xavier Cai
+31. MagicPython - MagicStack Inc.
+32. Material Icon Theme - Philipp Kief
+33. Maven for Java - Microsoft
+34. neuron - neuron
+35. Output Colorizer - IBM
+36. Path Intellisense - Christian Kohler
+37. Prettier - Coder formatter - Prettier
+38. Prettier for Handlebars - Ember Tooling
+39. Prettier Now - Remi Marsal
+40. Project Manager - Alessandro Fragnani
+41. Project Manager for Java - Microsoft
+42. Pylance - Microsoft
+43. Python - Microsoft
+44. Python (PyDev) - Fabio Zadrozny
+45. Python Indent - Kevin Rose
+46. python snippets - Ferhat Yalcin
+47. Python Test Explorer for Vi.. - Little Fox Team
+48. R - Yuki Ueda
+49. Resource Monitor - mutantdino
+50. SQL Server (mssql) - Microsoft
+51. SQLTools - Matheus Teixeira
+52. SQLTools Microsoft SQl Server - Matheus Teixeira
+53. SQLTools MySQL/MariaDB - Matheus Teixeira
+54. SQLTools PostgreSQL/Redshift Driver - Matheus Teixeira
+55. SQLTools SQLite - Matheus Teixeira
+56. Statusbar Error - Joe Berria
+57. SymLevel C++ Debugger - SymLevel
+58. Tabnine Autocomplete AI:... - TabNine
+59. Test Explorer UI - Holfer Benl
+60. Visual Studio IntelliCode - Microsoft
+61. VSNotebooks - pavan
+62. x86 and x86_64 Assembly - 13xforever
