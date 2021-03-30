@@ -21,3 +21,5 @@ Type these in settings.json
 
 
 8. Done
+
+References: https://github.com/aveenain/VSCode-Essentials/blob/main/How%20to%20setup%20R%20in%20VSCode.txt
