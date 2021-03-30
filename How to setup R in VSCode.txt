@@ -1,0 +1,10 @@
+How to setup R in VSCode
+
+1. Install R extension by Yuki Ueda
+2. Install R Tools by Mikhail Arkhipov
+3. Install R LSP Client by REditorSupport
+4. Install R Debugger by R Debugger
+5. Install Rainbow CSV by mechatroner
+6. Turn on r.bracketedPaste setting in VSCode
+7. Install language server in R Studio console by typing: install.packages("languageserver")
+8. Done
