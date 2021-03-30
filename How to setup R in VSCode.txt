@@ -7,4 +7,17 @@ How to setup R in VSCode
 5. Install Rainbow CSV by mechatroner
 6. Turn on r.bracketedPaste setting in VSCode
 7. Install language server in R Studio console by typing: install.packages("languageserver")
+
+Type these in settings.json
+
+    "r.linting.enable": true,
+    "r.linting.camelCase": true,
+    "r.linting.snakeCase": true,
+    "r.bracketedPaste": true,
+    "r.rterm.windows": "C:\\Users\\USER\\anaconda3\\Scripts\\radian.exe",
+    "r.lsp.path": "C:\\Program Files\\R\\R-4.0.4\\bin\\R.exe",
+    "r.lsp.debug": true,
+    "r.lsp.diagnostics": true
+
+
 8. Done
